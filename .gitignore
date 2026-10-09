@@ -1,0 +1,6 @@
+venv/
+quant-venv/
+models/
+logs/
+__pycache__/
+*.pyc
